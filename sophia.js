@@ -31,5 +31,7 @@ let solution = bookName + " is" + " " + aboutBook;
 console.log(solution);
 
 // var
-var solutions = `${bookName} is ${aboutBook}`;
+let solutions = `${bookName} is ${aboutBook}`;
 console.log(solutions);
+
+
